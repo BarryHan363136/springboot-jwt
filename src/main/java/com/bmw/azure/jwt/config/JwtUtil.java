@@ -7,6 +7,11 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * DOCS:
+ * https://www.jianshu.com/p/e62af4a217eb
+ * */
+
 public class JwtUtil {
 
     static final String SECRET = "ThisIsASecret";

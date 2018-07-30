@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
  * TaskApplication [spring boot] 主方法
  *
  * 启动方式，右键->run/debug->Spring Boot App
- *
+ *https://www.jianshu.com/p/e62af4a217eb
  * @author
  *
  */
